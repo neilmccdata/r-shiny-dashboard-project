@@ -23,4 +23,4 @@ This was the second project during during the CodeClan Data anaysis course. Code
 <br/>R and R Shiny code . 
 <br/>Synthesised data in the form of CSV file . 
 <br/>A screenshot image of the dashboard . 
-<br/>Code run to synthesis data .  
+<br/>Code run to synthesise data .  
